@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JS Chat Website 💬 👾
 
 ![JS website chat GIF](https://blog.chatengine.io/assets/per-post/nodejs-react-demo.gif)
@@ -26,3 +27,6 @@ npm run dev # to start the website
 Then, your webstie will be running at http://localhost:5173/
 
 Done 🎉
+=======
+# CHAT-APP
+>>>>>>> d84ff0d07b8fa66358919663c3acf70b5f4f1a3e
