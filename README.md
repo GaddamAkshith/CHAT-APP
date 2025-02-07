@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# JS Chat Website 💬 👾
+#chat app
 
-![JS website chat GIF](https://blog.chatengine.io/assets/per-post/nodejs-react-demo.gif)
+![chatapp](https://blog.chatengine.io/assets/per-post/nodejs-react-demo.gif)
 
 This is a chat UI built entirely with Javascript (React specifically) 😃
 
